@@ -1,0 +1,22 @@
+{
+  "name": "clase10-simondice",
+  "version": "1.0.0",
+  "description": "Juego de Simon Dice - Ejercicio Clase 10",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santi1181/Clase10-SimonDice.git"
+  },
+  "author": "SantiagoA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santi1181/Clase10-SimonDice/issues"
+  },
+  "homepage": "https://github.com/Santi1181/Clase10-SimonDice#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
